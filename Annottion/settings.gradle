@@ -1,0 +1,4 @@
+include ':annotion-complie'
+include ':annotion-lib'
+include ':app'
+rootProject.name = "Annottion"
